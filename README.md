@@ -16,10 +16,9 @@ Spending Score (1-100)
 
 Ensure Python is installed.
 Install the necessary libraries: pandas, scikit-learn, matplotlib, and seaborn.
-bash
 
-Copy code
-pip install pandas scikit-learn matplotlib seaborn
+
+####pip install pandas scikit-learn matplotlib seaborn
 Download the Dataset
 
 ### Download the dataset from Kaggle and unzip it to your working directory.
