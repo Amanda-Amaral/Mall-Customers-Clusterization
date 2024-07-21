@@ -18,7 +18,7 @@ Ensure Python is installed.
 Install the necessary libraries: pandas, scikit-learn, matplotlib, and seaborn.
 bash
 
-Copiar código
+Copy code
 pip install pandas scikit-learn matplotlib seaborn
 Download the Dataset
 
