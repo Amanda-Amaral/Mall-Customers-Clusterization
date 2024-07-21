@@ -11,8 +11,8 @@ Age
 Annual Income (k$)
 Spending Score (1-100)
 
-##Project Steps
-###Environment Setup
+## Project Steps
+### Environment Setup
 
 Ensure Python is installed.
 Install the necessary libraries: pandas, scikit-learn, matplotlib, and seaborn.
@@ -22,14 +22,14 @@ Copiar código
 pip install pandas scikit-learn matplotlib seaborn
 Download the Dataset
 
-###Download the dataset from Kaggle and unzip it to your working directory.
-###Run the Script
+### Download the dataset from Kaggle and unzip it to your working directory.
+### Run the Script
 
 Use the provided Python script to perform data loading, exploration, visualization, clustering, and evaluation.
 
-##Conclusion
+## Conclusion
 This project provides a quick and simple example of clustering using the K-Means algorithm on the Mall Customer Segmentation Data. By following the steps outlined above, you can replicate the analysis and gain insights into customer segmentation.
 
-##Acknowledgments
+## Acknowledgments
 Thanks to Kaggle for providing the dataset.
 Inspired by various tutorials and resources available online.
